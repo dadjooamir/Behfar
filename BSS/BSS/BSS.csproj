@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F35F7B16-B1F4-42DA-BBE1-6F838A0312C5}</ProjectGuid>
+    <ProjectGuid>{00FD7F96-AF06-49C9-AF01-19C209C888BB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>BSS</RootNamespace>
     <AssemblyName>BSS</AssemblyName>
